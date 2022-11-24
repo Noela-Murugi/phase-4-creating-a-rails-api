@@ -5,6 +5,7 @@
 - Use the `--api` flag to create an API-only Rails app
 - Use the `resource` generator
 
+
 ## Introduction
 
 We've spent a lot of time now focusing on the backend, and now's a great
